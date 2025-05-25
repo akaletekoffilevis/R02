@@ -1,7 +1,7 @@
 #  Projet C – Gestionnaire D'etudiant
 
-Ce projet est un **Gestionnaire D'etudiant** écrite en langage C
-Ce projet est une application de gestionnaire etudiant multifonctionnelle écrite en langage C.
+Ce projet est un **Gestionnaire D'etudiant** écrite en langage C.
+C'est une application de gestionnaire etudiant multifonctionnelle écrite en langage C.
  Il propose un menu interactif permettant d'effectuer plusieurs action comme ajouter un etudiant, accessibles à partir de l'invitecommande.
 Elle offre différentes fonctionnalités  dans un cadre éducatif et illustrant les bases de la programmation structurée notamment :
 

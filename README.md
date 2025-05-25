@@ -37,12 +37,17 @@ Chaque fonctionnalité est implémentée sous forme de **procédure (`void`) ind
 
 La participation de chaque menbre du rush est  reportées dans le tableau suivant :
 
-| Membre                                   | Fonctionnalité
-| AKALETE    ('Chef de Rush')   Afficher les etudiants(tri inclut),sauvegarder,fusion et mise en propre du code ,README
-|Ismael Moctar         Modifier un etudiant
-|Attahir                 Ajouter un etudiant
-|Karki Mahaman     Rechercher un etudiant
-|Souley Adamou     supprimer  un etudiant
+### Membre                                   | Fonctionnalité
+- AKALETE    ('Chef de Rush')
+-    Afficher les etudiants(tri inclut),sauvegarder,fusion et mise en propre du code ,README
+- Ismael Moctar
+-    Modifier un etudiant
+- Attahir
+-    Ajouter un etudiant
+- Karki Mahaman
+-    Rechercher un etudiant
+- Souley Adamou
+-    supprimer  un etudiant
 
 
 ## Fonctionnalités

@@ -47,8 +47,6 @@ La participation de chaque menbre du rush est  reportées dans le tableau suivan
 - Karki Mahaman
 -  -  Rechercher un etudiant
 - Souley Adamou
--  -  supprimer  un etudiant
-
 
 ## Fonctionnalités
 

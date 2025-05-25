@@ -39,7 +39,7 @@ La participation de chaque menbre du rush est  reportées dans le tableau suivan
 
 ### Membre                                   | Fonctionnalité
 - AKALETE    ('Chef de Rush')
-- -   Afficher les etudiants(tri inclut),sauvegarder,fusion et mise en propre du code ,README
+- -   Afficher les etudiants(tri inclut),sauvegarder,supprimer,fusion et mise en propre du code ,README
 - Ismael Moctar
 -  -  Modifier un etudiant
 - Attahir

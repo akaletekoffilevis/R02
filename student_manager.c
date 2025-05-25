@@ -41,6 +41,7 @@ int verifier_numero_unique(int num);
 int main()
 {
     int choix, save;
+    char buffer[100],extra;
 
     charger_depuis_fichier(); // Chargement des etudiants depuis le fichier texte a l'ouverture
 
@@ -56,7 +57,15 @@ int main()
         printf("\n\t6 : SAUVEGARDER LES DONNEES");
         printf("\n\n 0 : Quitter");
         printf("\n\nEntrer votre choix(0-6) : ");
-        scanf("%d", &choix);
+      //  Fgets (avec stdin) récupère l'entrée de l'utilisateur et la stock dans la chaine de caractère buffer.
+      //sscanf recupere ce qui a été stocker dans buffer pour ensuite le stocker dans les variables choix
+     //(et extra si un autre caractère est ajouter) stdin specifie qu'on doit recuperer un entier
+        if(fgets(buffer, sizeof(buffer), stdin) != NULL){
+            if (sscanf(buffer, "%d %c", &choix, &extra) != 1){
+                printf("\nChoix Invalid !");
+                continue;
+            }
+        }
 
         switch (choix)
         {

@@ -1,0 +1,8 @@
+521 Ali Mahamadou 12/5/2001 Niamey Masculin Informatique 14.50 90998876 10/9/2022
+1002 Amina Souley 3/10/2000 Maradi Féminin Droit 12.00 90991234 12/9/2022
+1102 Zakari Issa 25/3/2002 Zinder Masculin Médecine 15.70 90112233 13/9/2022
+584 Fatouma Adamou 9/12/2000 Tahoua Féminin Économie 13.30 90445566 11/9/2022
+5842 Ibrahim Issa 25/3/2002 Zinder Masculin Medecine 15.70 90112233 13/9/2022
+1486 Salifou Abdou 7/7/2001 Agadez Masculin Informatique 12.32 90334455 10/9/2022
+972 Fatouma Adamou 9/12/2000 Tahoua Feminin Économie 16.56 90445566 11/9/2022
+4451 Ismael Abbas 29/10/2001 Akokan Masculin Economie 15.22 82998883 1/10/2020

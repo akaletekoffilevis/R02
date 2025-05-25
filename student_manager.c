@@ -93,7 +93,8 @@ int main()
             if (save == 1) sauvegarder_dans_fichier();
             break;
         default:
-            printf("Choix invalide.\n");
+            printf("\nChoix invalide.\n");
+            continue;
         }
     }
     while (choix != 0);
